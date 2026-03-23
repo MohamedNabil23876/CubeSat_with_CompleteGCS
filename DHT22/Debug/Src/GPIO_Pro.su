@@ -1,0 +1,6 @@
+../Src/GPIO_Pro.c:20:4:MGPIO_VoidSetPinConfg	24	static
+../Src/GPIO_Pro.c:68:4:GPIO_voidSetPinValue	24	static
+../Src/GPIO_Pro.c:96:4:GPIO_voidSetPortValue	24	static
+../Src/GPIO_Pro.c:113:4:GPIO_voidReadPinValue	24	static
+../Src/GPIO_Pro.c:127:4:GPIO_TogglePinValue	24	static
+../Src/GPIO_Pro.c:142:6:MGPIO_voidSetAF	16	static

@@ -1,0 +1,7 @@
+"./Src/DHT_Prog.o"
+"./Src/GPIO_Pro.o"
+"./Src/Rcc_Pro.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f446retx.o"

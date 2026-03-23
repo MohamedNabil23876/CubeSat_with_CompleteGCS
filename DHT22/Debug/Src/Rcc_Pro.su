@@ -1,0 +1,3 @@
+../Src/Rcc_Pro.c:28:6:MRCC_VoidInit	4	static
+../Src/Rcc_Pro.c:69:6:RCC_VoidEnableCLK	16	static
+../Src/Rcc_Pro.c:94:6:RCC_VoidDisableCLK	16	static
